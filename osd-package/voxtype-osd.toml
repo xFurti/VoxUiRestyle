@@ -1,6 +1,6 @@
-name = "jarvis-hud"
+name = "voxuirestyle"
 version = "1.0.0"
-description = "Centered cyan assistant HUD for Voxtype dictation on Omarchy."
+description = "VoxUiRestyle: compact cyan HUD for Voxtype dictation on Omarchy."
 compatibility = "voxtype quickshell style packages"
 palette = "package"
 layout = "custom"

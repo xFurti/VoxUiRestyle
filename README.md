@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/banner.jpg" alt="Voice Link, a dictation HUD for Omarchy" width="880">
+  <img src="docs/banner.jpg" alt="VoxUiRestyle dictation HUD for Omarchy" width="880">
 </p>
 
 A compact cyan assistant overlay for [Voxtype](https://voxtype.io/) on Omarchy.

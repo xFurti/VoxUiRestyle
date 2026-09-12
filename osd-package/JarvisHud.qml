@@ -398,14 +398,10 @@ Item {
             ctx.save();
             ctx.textAlign = "center";
             ctx.textBaseline = "middle";
-            ctx.font = Math.max(8, Math.round(size * 0.055)) + "px JetBrains Mono, monospace";
-            ctx.fillStyle = muted;
-            ctx.globalAlpha = 0.70;
-            ctx.fillText("VOICE LINK", cx, cy + r * 1.08);
             ctx.font = "600 " + Math.max(11, Math.round(size * 0.09)) + "px JetBrains Mono, monospace";
             ctx.fillStyle = state;
             ctx.globalAlpha = 0.96;
-            ctx.fillText(root._stateLabel(), cx, cy + r * 1.24);
+            ctx.fillText(root._stateLabel(), cx, cy + r * 1.12);
             ctx.restore();
             ctx.restore();
         }
