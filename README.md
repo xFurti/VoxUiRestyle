@@ -1,4 +1,6 @@
-# Jarvis dictation HUD
+<p align="center">
+  <img src="docs/wordmark.png" alt="VoxUiRestyle" width="720">
+</p>
 
 A compact cyan assistant overlay for [Voxtype](https://voxtype.io/) on Omarchy.
 Hold `F9` (or toggle `Super + Ctrl + X`) and a small HUD appears at the bottom of
@@ -6,6 +8,23 @@ the screen while dictation is active.
 
 The overlay is a Voxtype Quickshell OSD package. It does not patch Omarchy or
 the packaged Voxtype QML under `/usr/share`.
+
+<p align="center">
+  <img src="docs/desktop-listening.png" alt="HUD listening on the Omarchy desktop" width="780">
+</p>
+
+## Preview
+
+| Listening | Processing |
+| --- | --- |
+| ![Listening](docs/crop-listening.png) | ![Processing](docs/crop-processing.png) |
+
+<p align="center">
+  <img src="docs/hud-listening.png" alt="Close-up of the listening HUD" width="360">
+</p>
+
+Presentation extras in [`docs/`](docs/): `icon.png` for avatars, `social-banner.png` for
+GitHub/social previews.
 
 ## What you get
 
