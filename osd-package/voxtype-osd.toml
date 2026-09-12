@@ -1,0 +1,30 @@
+name = "jarvis-hud"
+version = "1.0.0"
+description = "Centered cyan assistant HUD for Voxtype dictation on Omarchy."
+compatibility = "voxtype quickshell style packages"
+palette = "package"
+layout = "custom"
+qml_entry = "JarvisHud.qml"
+
+[colors]
+accent = "#4CC9FF"
+background = "rgba(2, 10, 22, 0.55)"
+surface = "rgba(4, 22, 40, 0.48)"
+foreground = "#E8FBFF"
+muted = "rgba(140, 214, 235, 0.70)"
+success = "#53FFBD"
+warning = "#FFC857"
+error = "#FF5F72"
+recording = "#4CC9FF"
+streaming = "#6EA8FF"
+transcribing = "#FFC857"
+idle = "rgba(140, 214, 235, 0.55)"
+core = "#D8F7FF"
+glow = "rgba(40, 180, 255, 0.42)"
+grid = "rgba(76, 201, 255, 0.28)"
+
+[frame]
+background = "none"
+border = "none"
+glow = false
+halo = false
