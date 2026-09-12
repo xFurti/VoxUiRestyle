@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/wordmark.png" alt="VoxUiRestyle" width="720">
+  <img src="docs/banner.jpg" alt="Voice Link, a dictation HUD for Omarchy" width="880">
 </p>
 
 A compact cyan assistant overlay for [Voxtype](https://voxtype.io/) on Omarchy.
@@ -23,8 +23,8 @@ the packaged Voxtype QML under `/usr/share`.
   <img src="docs/hud-listening.png" alt="Close-up of the listening HUD" width="360">
 </p>
 
-Presentation extras in [`docs/`](docs/): `icon.png` for avatars, `social-banner.png` for
-GitHub/social previews.
+Presentation extras in [`docs/`](docs/): `banner.jpg` for the README hero,
+`social-banner.jpg` for GitHub/social previews, `icon.png` for avatars.
 
 ## What you get
 
